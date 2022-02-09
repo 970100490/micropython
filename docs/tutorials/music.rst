@@ -47,6 +47,7 @@ MicroPython has quite a lot of built-in melodies. Here's a complete list:
 * ``music.JUMP_DOWN``
 * ``music.POWER_UP``
 * ``music.POWER_DOWN``
+* ``music.Rap``
 
 Take the example code and change the melody. Which one is your favourite? How
 would you use such tunes as signals or cues?
